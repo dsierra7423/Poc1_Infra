@@ -1,6 +1,6 @@
 [
   {
-    "image": "259941133233.dkr.ecr.us-west-2.amazonaws.com/user-front-v1:latest",
+    "image": "259941133233.dkr.ecr.us-west-2.amazonaws.com/user-front-v2:latest",
     "cpu": 256,
     "memory": 1024,
     "name": "front-end",
