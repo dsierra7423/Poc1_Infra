@@ -1,0 +1,16 @@
+[
+  {
+    "image": "259941133233.dkr.ecr.us-west-2.amazonaws.com/user-front:latest",
+    "cpu": 256,
+    "memory": 1024,
+    "name": "front-end",
+    "networkMode": "awsvpc",
+    "portMappings": [
+      {
+        "containerPort": 80,
+        "hostPort": 80
+      }
+    ]
+  }
+
+]
