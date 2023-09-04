@@ -2,3 +2,4 @@
 plan.tfplan
 terraform.tfstate
 .terraform/providers/registry.terraform.io/hashicorp/aws/5.13.1/darwin_amd64/terraform-provider-aws_v5.13.1_x5
+terraform.tfstate.backup
